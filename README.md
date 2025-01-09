@@ -45,4 +45,4 @@ Obrigado por visitar meu perfil. Explore meus projetos e entre em contato caso t
 
 ---
 
-[![Siga-me no GitHub](https://img.shields.io/github/followers/guiialves?label=Siga-me%20no%20GitHub&style=social)](https://github.com/guiialves)
+[![Siga-me no GitHub](https://img.shields.io/github/followers/guialvees?label=Siga-me%20no%20GitHub&style=social)](https://github.com/guialvees)
