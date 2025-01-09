@@ -13,7 +13,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por criar aplicações web inovadoras qu
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Stacks que domino
 
 **Frontend:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Zustand](https://img.shields.io/badge/Zustand-264653?style=flat&logo=react)
