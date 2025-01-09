@@ -1,6 +1,6 @@
 # 👋 Olá! me chamo Guilherme Alves
 
-### 🚀 Desenvolvedor Full Stack | FullStack | Especialista em Next.js
+### 🚀 Desenvolvedor Full Stack | UIUX Designer | Especialista em Next.js
 
 Bem-vindo ao meu GitHub! Sou apaixonado por criar aplicações web inovadoras que combinam as tecnologias mais recentes com um design centrado no usuário. Especializo-me em **Next.js** e adoro integrar recursos de IA para criar soluções inovadoras.
 
@@ -32,7 +32,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por criar aplicações web inovadoras qu
 
 ### 🎯 Áreas de Foco
 
-- Integrar funcionalidades de IA em aplicações web.
+- Adoro transformar ideias em realidade. Meu foco é criar soluções inovadoras e impactantes que unem tecnologia e design para resolver problemas reais
 
 ---
 
@@ -45,4 +45,4 @@ Obrigado por visitar meu perfil. Explore meus projetos e entre em contato caso t
 
 ---
 
-[![Siga-me no GitHub](https://img.shields.io/github/followers/guialvees?label=Siga-me%20no%20GitHub&style=social)](https://github.com/guialvees)
+[![Siga-me no GitHub](https://img.shields.io/github/followers/guialveess?label=Siga-me%20no%20GitHub&style=social)](https://github.com/guialveess)
