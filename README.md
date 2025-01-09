@@ -1,6 +1,48 @@
-# My Skills 😊
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,figma,xd,supabase,sqlite,react,nextjs,ts,prisma,postgres,ps,ai,linux,html,css,js,git,express,arduino" alt="My Skills" />
-  </a>
-</p>
+# 👋 Olá! me chamo Guilherme Alves
+
+### 🚀 Desenvolvedor Full Stack | FullStack | Especialista em Next.js
+
+Bem-vindo ao meu GitHub! Sou apaixonado por criar aplicações web inovadoras que combinam as tecnologias mais recentes com um design centrado no usuário. Especializo-me em **Next.js** e adoro integrar recursos de IA para criar soluções inovadoras.
+
+---
+
+### 🌟 Projetos Atuais
+
+- **[Stips](https://stipss.vercel.app/)**  
+  Um projeto de personalização de links, ajudando pessoas e empresas a criar links curtos e personalizados com diversas funcionalidades para otimizar compartilhamentos e engajamento online.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+**Frontend:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Zustand](https://img.shields.io/badge/Zustand-264653?style=flat&logo=react)
+
+**Backend:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat&logo=nextauth.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)  
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=api&logoColor=white)
+
+**UI/UX:**  
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-111827?style=flat&logo=tailwind-css) ![Daisy UI](https://img.shields.io/badge/Daisy_UI-5A67D8?style=flat&logo=daisyui) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Ferramentas:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+### 🎯 Áreas de Foco
+
+- Integrar funcionalidades de IA em aplicações web.
+
+---
+
+### 📬 Vamos Conectar?
+
+- **Portfólio**: [guiialves.vercel.app](https://guiialves.vercel.app)
+- **LinkedIn**: [Perfil no LinkedIn](https://linkedin.com/in/guiialves)
+
+Obrigado por visitar meu perfil. Explore meus projetos e entre em contato caso tenha interesse em colaborar em soluções inovadoras!
+
+---
+
+[![Siga-me no GitHub](https://img.shields.io/github/followers/guiialves?label=Siga-me%20no%20GitHub&style=social)](https://github.com/guiialves)
