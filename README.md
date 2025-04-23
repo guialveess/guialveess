@@ -38,7 +38,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por criar aplicações web inovadoras qu
 
 ### 📬 Vamos Conectar?
 
-- **Portfólio**: [guiialves.vercel.app](https://guiialves.vercel.app)
+- **Portfólio**: [guiialves.vercel.app](https://portfolio-guiiwfz.vercel.app/)
 - **LinkedIn**: [Perfil no LinkedIn](https://linkedin.com/in/guiialves)
 
 Obrigado por visitar meu perfil. Explore meus projetos e entre em contato caso tenha interesse em colaborar em soluções inovadoras!
