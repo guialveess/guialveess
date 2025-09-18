@@ -1,8 +1,8 @@
 # 👋 Olá! me chamo Guilherme Alves
 
-### 🚀 Desenvolvedor Full Stack | UIUX Designer | Especialista em Next.js
+### 🚀 Desenvolvedor Full Stack | Backend Enthusiast | Especialista em Next.js | 
 
-Bem-vindo ao meu GitHub! Sou apaixonado por criar aplicações web inovadoras que combinam as tecnologias mais recentes com um design centrado no usuário. Especializo-me em **Next.js** e adoro integrar recursos de IA para criar soluções inovadoras.
+Bem-vindo ao meu GitHub! Gosto bastante de trabalhar com front-end e criar experiências web que unam tecnologia e usabilidade. Nos últimos anos, venho também aprimorando meus conhecimentos em back-end com Node.js, Spring e outras tecnologias, buscando sempre evoluir como desenvolvedor fullstack e explorar integrações com IA para soluções ainda mais criativas.
 
 ---
 
