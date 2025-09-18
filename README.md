@@ -8,7 +8,7 @@ Bem-vindo ao meu GitHub! Gosto bastante de trabalhar com front-end e criar exper
 
 ### 🌟 Projetos Atuais
 
-- **[Stips](https://tanstackstart-alves.vercel.app/)**  
+- **[guialvees](https://tanstackstart-alves.vercel.app/)**  
   Projeto experimental onde estou realizando testes de SEO utilizando **Bun** e **React Start**, explorando performance, renderização e otimizações para motores de busca
 
 ### 🛠️ Stacks que domino
