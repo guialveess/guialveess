@@ -1,46 +1,64 @@
-# 👋 Olá! me chamo Guilherme Alves
+# 👋 Hello, I'm Gui
+<img align="right" width="30%" src="./assets/dev.gif" style="border-radius:12px" alt="i'm a dev" />
 
-### 🚀 Desenvolvedor Full Stack | Backend Enthusiast | Especialista em Next.js | 
+- 📄 **Name:** Guilherme Alves
+- 🏠 **From:** Recife - PE, Brazil
+- 🎓 **Degree:**
+  - Degree in systems analysis and development
+- Backend & Infrastructure enthusiast
+- Deep interest in Software Architecture, System Design, and DevOps Practices
 
-Bem-vindo ao meu GitHub! Gosto bastante de trabalhar com front-end e criar experiências web que unam tecnologia e usabilidade. Nos últimos anos, venho também aprimorando meus conhecimentos em back-end com Node.js, Spring e outras tecnologias, buscando sempre evoluir como desenvolvedor fullstack e explorar integrações com IA para soluções ainda mais criativas.
+
+## 🧩 My Tech Stack
+
+### ⚙️ Back-End
+[![My Skills](https://skillicons.dev/icons?i=golang,java,spring,nodejs,nestjs,express,elysia,bun&theme=dark)]()<br/>
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb&theme=light)]()<br/>
+
+<div align="left">
+  <img alt="lambda" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Lambda_64.svg" width="46" height="46">
+  <img alt="api gateway" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_48/Arch_%20Amazon-API-Gateway_48.svg" width="46" height="46">
+  <img alt="rds" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Database/64/Arch_Amazon-RDS_64.svg" width="46" height="46">
+  <img alt="cloudfront" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/64/Arch_Amazon-CloudFront_64.svg" width="46" height="46">
+  <img alt="dynamodb" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Database/64/Arch_Amazon-DynamoDB_64.svg" width="46" height="46">
+  <img alt="sns" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Notification-Service_64.svg" width="46" height="46">
+  <img alt="beanstalk" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Elastic-Beanstalk_64.svg" width="46" height="46">
+  <img alt="sqs" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Queue-Service_64.svg" width="46" height="46">
+</div>
+
+
+### 🧰 DevOps
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()<br/>
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()<br/>
+
+
+
+### 🎨 Front-End
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,tailwind,react,next,vite,js)]()<br/>
+
+
+## 🧭 Technology-Agnostic Knowledge
+
+- Event Driven Architeture | Multi-Tenant Architeture | Serverless Architeture | Monolithic architecture | Microsservices | Distributed Architeture
+- Clean Architeture | Domain Driven Design (DDD) | Hexagonal Architeture | MVC | CQRS
+- Principles | SOLID | DRY | OOP
+- API's | HTTP | gRPC | REST | GraphQL | REST | Webhook | Server Sent Events (SSE) | Server-Side Rendering (SSR)
+- Deploy Strategies | CI | CD | Infrastructure as Code (IaC) | Containerization
+- Observability | APM | Distributed Tracing | Monitoring | Session Replay | Logging | ETL | Instrumentation
+
+
+## 🏅 Badges
+<div align="left">
+  <img alt="google cloud computing" src="https://images.credly.com/size/220x220/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" height="140">
+  <img alt="aws cloud foundations" src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="140">
+</div>
+
+
+## 🌐 Status
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialveess&hide=html,powershell,shell,css,php&size_weight=0.03&count_weight=0&langs_count=5&layout=compact&theme=dark" />
 
 ---
 
-### 🌟 Projetos Atuais
-
-- **[🔥 guialvees](https://tanstackstart-alves.vercel.app/)**  
-  Projeto experimental onde estou realizando testes de SEO utilizando **Bun** e **React Start**, explorando performance, renderização e otimizações para motores de busca
-
-### 🛠️ Stacks que domino
-
-**Frontend:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Zustand](https://img.shields.io/badge/Zustand-264653?style=flat&logo=react)
-
-**Backend:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat&logo=nextauth.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)  
-![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=api&logoColor=white) ![Sring](https://img.shields.io/badge/Spring-2D3748?style=flat&logo=spring)
-
-**UI/UX:**  
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-111827?style=flat&logo=tailwind-css) ![Daisy UI](https://img.shields.io/badge/Daisy_UI-5A67D8?style=flat&logo=daisyui) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-**Ferramentas:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### 🎯 Áreas de Foco
-
-- Adoro transformar ideias em realidade. Meu foco é criar soluções inovadoras e impactantes que unem tecnologia e design para resolver problemas reais
-
----
-
-### 📬 Vamos Conectar?
-
-- **Portfólio**: [guiialves.vercel.app](https://portfolio-guiiwfz.vercel.app/)
-- **LinkedIn**: [Perfil no LinkedIn](https://linkedin.com/in/guiialves)
-
-Obrigado por visitar meu perfil. Explore meus projetos e entre em contato caso tenha interesse em colaborar em soluções inovadoras!
-
----
-
-[![Siga-me no GitHub](https://img.shields.io/github/followers/guialveess?label=Siga-me%20no%20GitHub&style=social)](https://github.com/guialveess)
+> _"Those who work hard can surpass a genius, but hard work is useless if you don't believe in yourself."_
+> — Rock Lee, Naruto
